@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Profile header](https://github.com/optimusinhisprime/optimusinhisprime/blob/main/header.png)
 <!--
 **optimusinhisprime/optimusinhisprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
